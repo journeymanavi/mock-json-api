@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "bannerImage": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+      "title": "Sunt aut facere repellat provident occaecati",
+      "published-on": "05-Oct-2019 10:15:30",
+      "body": "Quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architectoquia et suscipit.\nSuscipit suscipit recusandae autem sunt rem eveniet architectoquia et suscipit consequuntur expedita et cum reprehenderit molestiae ut utrchi tectoquia et suscipit et suscipit suscipit recusandae suscipit consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet.\nArchitectoquia et suscipit et suscipit suscipit recusandae consequuntur expedita et cum rem eveniet architectoquia et suscipit reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt."
+    }
+  ]
+}
